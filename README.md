@@ -34,7 +34,8 @@
 
 ### Pregunta 1 (1pto)
 
-Se tiene el siguiente algoritmo, pero no imprime el resultado correcto, hay que arreglarlo.
+En el siguiente algoritmo un usuario tiene que ingresar un numero, estos numeros se tienen que ir sumando. Si ingresa la palabra 'fin' u otra palabra clave definida por ustedes, se tiene que romper el ciclo e imprimir el resultado de la suma.
+Arreglar el algoritmo para que funcione correctamente.
 
 ~~~javascript
 var suma = 0;
