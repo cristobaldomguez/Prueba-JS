@@ -1,0 +1,28 @@
+.rm_btn,
+.add_btn,
+.add_color {
+	display: inline-block;
+	margin: 0 5px;
+	
+}
+
+.rm_btn a,
+.add_btn a,
+.add_color a {
+	border-radius: 3px;
+	color: white;
+	text-decoration: none;
+	padding: 10px 20px;
+}
+
+.rm_btn a {
+	background-color: red;
+}
+
+.add_btn a {
+	background-color: green;
+}
+
+.add_color a {
+	background-color: blue;
+}
